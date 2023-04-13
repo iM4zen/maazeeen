@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @maazeeen
+- 👋 Hi, I’m @mazenmuhammeed
 - 👀 I’m interested in Github Backend Projects
 - 🌱 I’m currently learning BackEnd
